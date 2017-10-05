@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi I am Shrey .
+I like music and playing football .
